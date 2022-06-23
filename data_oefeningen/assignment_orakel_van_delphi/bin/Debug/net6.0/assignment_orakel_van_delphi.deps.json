@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "assignment_orakel_van_delphi/1.0.0": {
+        "runtime": {
+          "assignment_orakel_van_delphi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assignment_orakel_van_delphi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
