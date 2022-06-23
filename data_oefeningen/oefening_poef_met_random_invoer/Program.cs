@@ -1,4 +1,7 @@
-﻿Random randomGenerator = new Random();
+﻿/* Pas 1 van bovenstaande programma’s aan zodat je de invoer niet meer aan de gebruiker vraagt, maar deze genereert door een random generator.
+ Zorg ervoor dat je realistische waarden genereert. */
+ 
+Random randomGenerator = new Random();
 double som = 0;
 for(int i = 0; i<5;i++){
     Console.WriteLine("Voer bedrag in?");
