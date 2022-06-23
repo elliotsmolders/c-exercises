@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\bin\Debug\net6.0\oefening_poef_met_random_invoer.exe
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\bin\Debug\net6.0\oefening_poef_met_random_invoer.deps.json
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\bin\Debug\net6.0\oefening_poef_met_random_invoer.runtimeconfig.json
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\bin\Debug\net6.0\oefening_poef_met_random_invoer.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\bin\Debug\net6.0\oefening_poef_met_random_invoer.pdb
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\obj\Debug\net6.0\oefening_poef_met_random_invoer.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\obj\Debug\net6.0\oefening_poef_met_random_invoer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\obj\Debug\net6.0\oefening_poef_met_random_invoer.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\obj\Debug\net6.0\oefening_poef_met_random_invoer.AssemblyInfo.cs
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\obj\Debug\net6.0\oefening_poef_met_random_invoer.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\obj\Debug\net6.0\oefening_poef_met_random_invoer.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\obj\Debug\net6.0\refint\oefening_poef_met_random_invoer.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\obj\Debug\net6.0\oefening_poef_met_random_invoer.pdb
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\obj\Debug\net6.0\oefening_poef_met_random_invoer.genruntimeconfig.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_poef_met_random_invoer\obj\Debug\net6.0\ref\oefening_poef_met_random_invoer.dll
