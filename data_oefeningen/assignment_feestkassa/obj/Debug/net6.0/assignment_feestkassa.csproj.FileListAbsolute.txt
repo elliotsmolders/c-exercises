@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\bin\Debug\net6.0\assignment_feestkassa.exe
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\bin\Debug\net6.0\assignment_feestkassa.deps.json
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\bin\Debug\net6.0\assignment_feestkassa.runtimeconfig.json
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\bin\Debug\net6.0\assignment_feestkassa.dll
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\bin\Debug\net6.0\assignment_feestkassa.pdb
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\obj\Debug\net6.0\assignment_feestkassa.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\obj\Debug\net6.0\assignment_feestkassa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\obj\Debug\net6.0\assignment_feestkassa.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\obj\Debug\net6.0\assignment_feestkassa.AssemblyInfo.cs
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\obj\Debug\net6.0\assignment_feestkassa.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\obj\Debug\net6.0\assignment_feestkassa.dll
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\obj\Debug\net6.0\refint\assignment_feestkassa.dll
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\obj\Debug\net6.0\assignment_feestkassa.pdb
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\obj\Debug\net6.0\assignment_feestkassa.genruntimeconfig.cache
+C:\Users\ellio\c#course\data_oefeningen\assignment_feestkassa\obj\Debug\net6.0\ref\assignment_feestkassa.dll

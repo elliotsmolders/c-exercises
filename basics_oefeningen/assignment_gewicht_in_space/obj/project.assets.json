@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ellio\\c#course\\folder1\\assignment_gewicht_in_space\\assignment_gewicht_in_space.csproj",
+      "projectUniqueName": "C:\\Users\\ellio\\c#course\\basics_oefeningen\\assignment_gewicht_in_space\\assignment_gewicht_in_space.csproj",
       "projectName": "assignment_gewicht_in_space",
-      "projectPath": "C:\\Users\\ellio\\c#course\\folder1\\assignment_gewicht_in_space\\assignment_gewicht_in_space.csproj",
+      "projectPath": "C:\\Users\\ellio\\c#course\\basics_oefeningen\\assignment_gewicht_in_space\\assignment_gewicht_in_space.csproj",
       "packagesPath": "C:\\Users\\ellio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ellio\\c#course\\folder1\\assignment_gewicht_in_space\\obj\\",
+      "outputPath": "C:\\Users\\ellio\\c#course\\basics_oefeningen\\assignment_gewicht_in_space\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ellio\\AppData\\Roaming\\NuGet\\NuGet.Config"

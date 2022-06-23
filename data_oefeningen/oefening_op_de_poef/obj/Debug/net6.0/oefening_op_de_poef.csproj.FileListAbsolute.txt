@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\bin\Debug\net6.0\oefening_op_de_poef.exe
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\bin\Debug\net6.0\oefening_op_de_poef.deps.json
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\bin\Debug\net6.0\oefening_op_de_poef.runtimeconfig.json
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\bin\Debug\net6.0\oefening_op_de_poef.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\bin\Debug\net6.0\oefening_op_de_poef.pdb
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\obj\Debug\net6.0\oefening_op_de_poef.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\obj\Debug\net6.0\oefening_op_de_poef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\obj\Debug\net6.0\oefening_op_de_poef.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\obj\Debug\net6.0\oefening_op_de_poef.AssemblyInfo.cs
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\obj\Debug\net6.0\oefening_op_de_poef.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\obj\Debug\net6.0\oefening_op_de_poef.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\obj\Debug\net6.0\refint\oefening_op_de_poef.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\obj\Debug\net6.0\oefening_op_de_poef.pdb
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\obj\Debug\net6.0\oefening_op_de_poef.genruntimeconfig.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_op_de_poef\obj\Debug\net6.0\ref\oefening_op_de_poef.dll

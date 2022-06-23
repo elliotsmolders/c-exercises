@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\bin\Debug\net6.0\oefening_geometric_fun.exe
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\bin\Debug\net6.0\oefening_geometric_fun.deps.json
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\bin\Debug\net6.0\oefening_geometric_fun.runtimeconfig.json
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\bin\Debug\net6.0\oefening_geometric_fun.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\bin\Debug\net6.0\oefening_geometric_fun.pdb
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\obj\Debug\net6.0\oefening_geometric_fun.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\obj\Debug\net6.0\oefening_geometric_fun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\obj\Debug\net6.0\oefening_geometric_fun.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\obj\Debug\net6.0\oefening_geometric_fun.AssemblyInfo.cs
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\obj\Debug\net6.0\oefening_geometric_fun.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\obj\Debug\net6.0\oefening_geometric_fun.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\obj\Debug\net6.0\refint\oefening_geometric_fun.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\obj\Debug\net6.0\oefening_geometric_fun.pdb
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\obj\Debug\net6.0\oefening_geometric_fun.genruntimeconfig.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_geometric_fun\obj\Debug\net6.0\ref\oefening_geometric_fun.dll

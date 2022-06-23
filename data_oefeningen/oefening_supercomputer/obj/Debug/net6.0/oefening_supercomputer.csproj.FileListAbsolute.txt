@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\bin\Debug\net6.0\oefening_supercomputer.exe
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\bin\Debug\net6.0\oefening_supercomputer.deps.json
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\bin\Debug\net6.0\oefening_supercomputer.runtimeconfig.json
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\bin\Debug\net6.0\oefening_supercomputer.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\bin\Debug\net6.0\oefening_supercomputer.pdb
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\obj\Debug\net6.0\oefening_supercomputer.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\obj\Debug\net6.0\oefening_supercomputer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\obj\Debug\net6.0\oefening_supercomputer.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\obj\Debug\net6.0\oefening_supercomputer.AssemblyInfo.cs
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\obj\Debug\net6.0\oefening_supercomputer.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\obj\Debug\net6.0\oefening_supercomputer.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\obj\Debug\net6.0\refint\oefening_supercomputer.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\obj\Debug\net6.0\oefening_supercomputer.pdb
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\obj\Debug\net6.0\oefening_supercomputer.genruntimeconfig.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_supercomputer\obj\Debug\net6.0\ref\oefening_supercomputer.dll

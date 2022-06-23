@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ellio\\c#course\\tekst\\assignment_ascii_art\\assignment_ascii_art.csproj": {}
+    "C:\\Users\\ellio\\c#course\\tekst_oefeningen\\assignment_ascii_art\\assignment_ascii_art.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ellio\\c#course\\tekst\\assignment_ascii_art\\assignment_ascii_art.csproj": {
+    "C:\\Users\\ellio\\c#course\\tekst_oefeningen\\assignment_ascii_art\\assignment_ascii_art.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ellio\\c#course\\tekst\\assignment_ascii_art\\assignment_ascii_art.csproj",
+        "projectUniqueName": "C:\\Users\\ellio\\c#course\\tekst_oefeningen\\assignment_ascii_art\\assignment_ascii_art.csproj",
         "projectName": "assignment_ascii_art",
-        "projectPath": "C:\\Users\\ellio\\c#course\\tekst\\assignment_ascii_art\\assignment_ascii_art.csproj",
+        "projectPath": "C:\\Users\\ellio\\c#course\\tekst_oefeningen\\assignment_ascii_art\\assignment_ascii_art.csproj",
         "packagesPath": "C:\\Users\\ellio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ellio\\c#course\\tekst\\assignment_ascii_art\\obj\\",
+        "outputPath": "C:\\Users\\ellio\\c#course\\tekst_oefeningen\\assignment_ascii_art\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ellio\\AppData\\Roaming\\NuGet\\NuGet.Config"

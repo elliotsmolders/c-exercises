@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "oefening_op_de_poef/1.0.0": {
+        "runtime": {
+          "oefening_op_de_poef.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oefening_op_de_poef/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

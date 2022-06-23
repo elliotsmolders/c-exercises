@@ -6,7 +6,8 @@ namespace assignment_ascii_art
   {
     static void Main(string[] args)
     {
-        Console.ForegroundColor=ConsoleColor.DarkBlue;
+        var color = ConsoleColor.DarkBlue;
+        Console.ForegroundColor=color;
         Console.Write(@"___________");
         Console.ResetColor();
         Console.Write(@".__  .__  .__        __   "+"\n");

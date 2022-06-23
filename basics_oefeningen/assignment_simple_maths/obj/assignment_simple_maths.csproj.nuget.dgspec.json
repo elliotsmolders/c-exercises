@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ellio\\c#course\\folder1\\assignment_simple_maths\\assignment_simple_maths.csproj": {}
+    "C:\\Users\\ellio\\c#course\\basics_oefeningen\\assignment_simple_maths\\assignment_simple_maths.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ellio\\c#course\\folder1\\assignment_simple_maths\\assignment_simple_maths.csproj": {
+    "C:\\Users\\ellio\\c#course\\basics_oefeningen\\assignment_simple_maths\\assignment_simple_maths.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ellio\\c#course\\folder1\\assignment_simple_maths\\assignment_simple_maths.csproj",
+        "projectUniqueName": "C:\\Users\\ellio\\c#course\\basics_oefeningen\\assignment_simple_maths\\assignment_simple_maths.csproj",
         "projectName": "assignment_simple_maths",
-        "projectPath": "C:\\Users\\ellio\\c#course\\folder1\\assignment_simple_maths\\assignment_simple_maths.csproj",
+        "projectPath": "C:\\Users\\ellio\\c#course\\basics_oefeningen\\assignment_simple_maths\\assignment_simple_maths.csproj",
         "packagesPath": "C:\\Users\\ellio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ellio\\c#course\\folder1\\assignment_simple_maths\\obj\\",
+        "outputPath": "C:\\Users\\ellio\\c#course\\basics_oefeningen\\assignment_simple_maths\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ellio\\AppData\\Roaming\\NuGet\\NuGet.Config"

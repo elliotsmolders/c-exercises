@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\bin\Debug\net6.0\oefening_bmi_berekenaar.exe
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\bin\Debug\net6.0\oefening_bmi_berekenaar.deps.json
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\bin\Debug\net6.0\oefening_bmi_berekenaar.runtimeconfig.json
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\bin\Debug\net6.0\oefening_bmi_berekenaar.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\bin\Debug\net6.0\oefening_bmi_berekenaar.pdb
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\obj\Debug\net6.0\oefening_bmi_berekenaar.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\obj\Debug\net6.0\oefening_bmi_berekenaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\obj\Debug\net6.0\oefening_bmi_berekenaar.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\obj\Debug\net6.0\oefening_bmi_berekenaar.AssemblyInfo.cs
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\obj\Debug\net6.0\oefening_bmi_berekenaar.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\obj\Debug\net6.0\oefening_bmi_berekenaar.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\obj\Debug\net6.0\refint\oefening_bmi_berekenaar.dll
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\obj\Debug\net6.0\oefening_bmi_berekenaar.pdb
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\obj\Debug\net6.0\oefening_bmi_berekenaar.genruntimeconfig.cache
+C:\Users\ellio\c#course\data_oefeningen\oefening_bmi_berekenaar\obj\Debug\net6.0\ref\oefening_bmi_berekenaar.dll

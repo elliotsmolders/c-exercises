@@ -1,11 +1,4 @@
-﻿using System;
-
-namespace assignment_gewicht_in_space
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
+﻿
         double gewichtOpAarde = 90; //kg
         double omzettingMercurius = 0.38;
         double omzettingVenus = 0.91;
@@ -16,6 +9,7 @@ namespace assignment_gewicht_in_space
         double omzettingUranus = 0.92;
         double omzettingNeptunus = 1.19;
         double omzettingPluto = 0.06;
+        
         Console.WriteLine($"Je weegt op planeet Mercurius {Math.Round(gewichtOpAarde*omzettingMercurius,2)}kg");
         Console.WriteLine($"Je weegt op planeet Venus {Math.Round(gewichtOpAarde*omzettingVenus,2)}kg");
         Console.WriteLine($"Je weegt op planeet Aarde {Math.Round(gewichtOpAarde*omzettingAarde,2)}kg");
@@ -29,6 +23,3 @@ namespace assignment_gewicht_in_space
         Console.ForegroundColor=ConsoleColor.Green;
         Console.WriteLine($"Je weegt op planeet Pluto {Math.Round(gewichtOpAarde*omzettingPluto,2)}kg");
         Console.ForegroundColor=ConsoleColor.White;
-    }
-  }
-}
