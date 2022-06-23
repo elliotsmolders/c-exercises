@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\tekst\acsii_art\bin\Debug\net6.0\acsii_art.exe
+C:\Users\ellio\c#course\tekst\acsii_art\bin\Debug\net6.0\acsii_art.deps.json
+C:\Users\ellio\c#course\tekst\acsii_art\bin\Debug\net6.0\acsii_art.runtimeconfig.json
+C:\Users\ellio\c#course\tekst\acsii_art\bin\Debug\net6.0\acsii_art.dll
+C:\Users\ellio\c#course\tekst\acsii_art\bin\Debug\net6.0\acsii_art.pdb
+C:\Users\ellio\c#course\tekst\acsii_art\obj\Debug\net6.0\acsii_art.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\tekst\acsii_art\obj\Debug\net6.0\acsii_art.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\tekst\acsii_art\obj\Debug\net6.0\acsii_art.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\tekst\acsii_art\obj\Debug\net6.0\acsii_art.AssemblyInfo.cs
+C:\Users\ellio\c#course\tekst\acsii_art\obj\Debug\net6.0\acsii_art.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\tekst\acsii_art\obj\Debug\net6.0\acsii_art.dll
+C:\Users\ellio\c#course\tekst\acsii_art\obj\Debug\net6.0\refint\acsii_art.dll
+C:\Users\ellio\c#course\tekst\acsii_art\obj\Debug\net6.0\acsii_art.pdb
+C:\Users\ellio\c#course\tekst\acsii_art\obj\Debug\net6.0\acsii_art.genruntimeconfig.cache
+C:\Users\ellio\c#course\tekst\acsii_art\obj\Debug\net6.0\ref\acsii_art.dll

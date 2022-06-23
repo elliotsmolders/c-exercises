@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\bin\Debug\net6.0\assignment_systeem_info_1.exe
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\bin\Debug\net6.0\assignment_systeem_info_1.deps.json
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\bin\Debug\net6.0\assignment_systeem_info_1.runtimeconfig.json
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\bin\Debug\net6.0\assignment_systeem_info_1.dll
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\bin\Debug\net6.0\assignment_systeem_info_1.pdb
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\obj\Debug\net6.0\assignment_systeem_info_1.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\obj\Debug\net6.0\assignment_systeem_info_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\obj\Debug\net6.0\assignment_systeem_info_1.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\obj\Debug\net6.0\assignment_systeem_info_1.AssemblyInfo.cs
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\obj\Debug\net6.0\assignment_systeem_info_1.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\obj\Debug\net6.0\assignment_systeem_info_1.dll
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\obj\Debug\net6.0\refint\assignment_systeem_info_1.dll
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\obj\Debug\net6.0\assignment_systeem_info_1.pdb
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\obj\Debug\net6.0\assignment_systeem_info_1.genruntimeconfig.cache
+C:\Users\ellio\c#course\tekst\assignment_systeem_info_1\obj\Debug\net6.0\ref\assignment_systeem_info_1.dll

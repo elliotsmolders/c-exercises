@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "assignment_gewicht_in_space/1.0.0": {
+        "runtime": {
+          "assignment_gewicht_in_space.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assignment_gewicht_in_space/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

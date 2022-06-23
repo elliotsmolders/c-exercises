@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\bin\Debug\net6.0\oefening_gemiddelde.exe
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\bin\Debug\net6.0\oefening_gemiddelde.deps.json
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\bin\Debug\net6.0\oefening_gemiddelde.runtimeconfig.json
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\bin\Debug\net6.0\oefening_gemiddelde.dll
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\bin\Debug\net6.0\oefening_gemiddelde.pdb
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\obj\Debug\net6.0\oefening_gemiddelde.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\obj\Debug\net6.0\oefening_gemiddelde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\obj\Debug\net6.0\oefening_gemiddelde.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\obj\Debug\net6.0\oefening_gemiddelde.AssemblyInfo.cs
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\obj\Debug\net6.0\oefening_gemiddelde.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\obj\Debug\net6.0\oefening_gemiddelde.dll
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\obj\Debug\net6.0\refint\oefening_gemiddelde.dll
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\obj\Debug\net6.0\oefening_gemiddelde.pdb
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\obj\Debug\net6.0\oefening_gemiddelde.genruntimeconfig.cache
+C:\Users\ellio\c#course\folder1\oefening_gemiddelde\obj\Debug\net6.0\ref\oefening_gemiddelde.dll

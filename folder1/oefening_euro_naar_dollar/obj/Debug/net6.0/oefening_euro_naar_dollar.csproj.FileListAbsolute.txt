@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\bin\Debug\net6.0\oefening_euro_naar_dollar.exe
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\bin\Debug\net6.0\oefening_euro_naar_dollar.deps.json
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\bin\Debug\net6.0\oefening_euro_naar_dollar.runtimeconfig.json
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\bin\Debug\net6.0\oefening_euro_naar_dollar.dll
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\bin\Debug\net6.0\oefening_euro_naar_dollar.pdb
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\obj\Debug\net6.0\oefening_euro_naar_dollar.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\obj\Debug\net6.0\oefening_euro_naar_dollar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\obj\Debug\net6.0\oefening_euro_naar_dollar.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\obj\Debug\net6.0\oefening_euro_naar_dollar.AssemblyInfo.cs
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\obj\Debug\net6.0\oefening_euro_naar_dollar.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\obj\Debug\net6.0\oefening_euro_naar_dollar.dll
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\obj\Debug\net6.0\refint\oefening_euro_naar_dollar.dll
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\obj\Debug\net6.0\oefening_euro_naar_dollar.pdb
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\obj\Debug\net6.0\oefening_euro_naar_dollar.genruntimeconfig.cache
+C:\Users\ellio\c#course\folder1\oefening_euro_naar_dollar\obj\Debug\net6.0\ref\oefening_euro_naar_dollar.dll

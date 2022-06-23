@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\folder1\oefening_kdr\bin\Debug\net6.0\oefening_kdr.exe
+C:\Users\ellio\c#course\folder1\oefening_kdr\bin\Debug\net6.0\oefening_kdr.deps.json
+C:\Users\ellio\c#course\folder1\oefening_kdr\bin\Debug\net6.0\oefening_kdr.runtimeconfig.json
+C:\Users\ellio\c#course\folder1\oefening_kdr\bin\Debug\net6.0\oefening_kdr.dll
+C:\Users\ellio\c#course\folder1\oefening_kdr\bin\Debug\net6.0\oefening_kdr.pdb
+C:\Users\ellio\c#course\folder1\oefening_kdr\obj\Debug\net6.0\oefening_kdr.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\folder1\oefening_kdr\obj\Debug\net6.0\oefening_kdr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\folder1\oefening_kdr\obj\Debug\net6.0\oefening_kdr.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\folder1\oefening_kdr\obj\Debug\net6.0\oefening_kdr.AssemblyInfo.cs
+C:\Users\ellio\c#course\folder1\oefening_kdr\obj\Debug\net6.0\oefening_kdr.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\folder1\oefening_kdr\obj\Debug\net6.0\oefening_kdr.dll
+C:\Users\ellio\c#course\folder1\oefening_kdr\obj\Debug\net6.0\refint\oefening_kdr.dll
+C:\Users\ellio\c#course\folder1\oefening_kdr\obj\Debug\net6.0\oefening_kdr.pdb
+C:\Users\ellio\c#course\folder1\oefening_kdr\obj\Debug\net6.0\oefening_kdr.genruntimeconfig.cache
+C:\Users\ellio\c#course\folder1\oefening_kdr\obj\Debug\net6.0\ref\oefening_kdr.dll

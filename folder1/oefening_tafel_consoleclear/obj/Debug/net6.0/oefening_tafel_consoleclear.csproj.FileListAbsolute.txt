@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\bin\Debug\net6.0\oefening_tafel_consoleclear.exe
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\bin\Debug\net6.0\oefening_tafel_consoleclear.deps.json
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\bin\Debug\net6.0\oefening_tafel_consoleclear.runtimeconfig.json
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\bin\Debug\net6.0\oefening_tafel_consoleclear.dll
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\bin\Debug\net6.0\oefening_tafel_consoleclear.pdb
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\obj\Debug\net6.0\oefening_tafel_consoleclear.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\obj\Debug\net6.0\oefening_tafel_consoleclear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\obj\Debug\net6.0\oefening_tafel_consoleclear.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\obj\Debug\net6.0\oefening_tafel_consoleclear.AssemblyInfo.cs
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\obj\Debug\net6.0\oefening_tafel_consoleclear.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\obj\Debug\net6.0\oefening_tafel_consoleclear.dll
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\obj\Debug\net6.0\refint\oefening_tafel_consoleclear.dll
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\obj\Debug\net6.0\oefening_tafel_consoleclear.pdb
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\obj\Debug\net6.0\oefening_tafel_consoleclear.genruntimeconfig.cache
+C:\Users\ellio\c#course\folder1\oefening_tafel_consoleclear\obj\Debug\net6.0\ref\oefening_tafel_consoleclear.dll
