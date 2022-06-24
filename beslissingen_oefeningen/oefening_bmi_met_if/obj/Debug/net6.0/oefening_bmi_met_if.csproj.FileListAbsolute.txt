@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\bin\Debug\net6.0\oefening_bmi_met_if.exe
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\bin\Debug\net6.0\oefening_bmi_met_if.deps.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\bin\Debug\net6.0\oefening_bmi_met_if.runtimeconfig.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\bin\Debug\net6.0\oefening_bmi_met_if.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\bin\Debug\net6.0\oefening_bmi_met_if.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\obj\Debug\net6.0\oefening_bmi_met_if.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\obj\Debug\net6.0\oefening_bmi_met_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\obj\Debug\net6.0\oefening_bmi_met_if.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\obj\Debug\net6.0\oefening_bmi_met_if.AssemblyInfo.cs
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\obj\Debug\net6.0\oefening_bmi_met_if.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\obj\Debug\net6.0\oefening_bmi_met_if.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\obj\Debug\net6.0\refint\oefening_bmi_met_if.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\obj\Debug\net6.0\oefening_bmi_met_if.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\obj\Debug\net6.0\oefening_bmi_met_if.genruntimeconfig.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_bmi_met_if\obj\Debug\net6.0\ref\oefening_bmi_met_if.dll
