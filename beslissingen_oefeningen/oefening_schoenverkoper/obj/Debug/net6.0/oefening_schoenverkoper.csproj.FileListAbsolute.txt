@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\bin\Debug\net6.0\oefening_schoenverkoper.exe
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\bin\Debug\net6.0\oefening_schoenverkoper.deps.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\bin\Debug\net6.0\oefening_schoenverkoper.runtimeconfig.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\bin\Debug\net6.0\oefening_schoenverkoper.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\bin\Debug\net6.0\oefening_schoenverkoper.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\obj\Debug\net6.0\oefening_schoenverkoper.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\obj\Debug\net6.0\oefening_schoenverkoper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\obj\Debug\net6.0\oefening_schoenverkoper.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\obj\Debug\net6.0\oefening_schoenverkoper.AssemblyInfo.cs
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\obj\Debug\net6.0\oefening_schoenverkoper.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\obj\Debug\net6.0\oefening_schoenverkoper.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\obj\Debug\net6.0\refint\oefening_schoenverkoper.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\obj\Debug\net6.0\oefening_schoenverkoper.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\obj\Debug\net6.0\oefening_schoenverkoper.genruntimeconfig.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_schoenverkoper\obj\Debug\net6.0\ref\oefening_schoenverkoper.dll
