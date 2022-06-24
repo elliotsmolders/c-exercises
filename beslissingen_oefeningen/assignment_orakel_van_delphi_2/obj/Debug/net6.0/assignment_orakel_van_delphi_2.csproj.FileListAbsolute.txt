@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\obj\Debug\net6.0\assignment_orakel_van_delphi_2.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\obj\Debug\net6.0\assignment_orakel_van_delphi_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\obj\Debug\net6.0\assignment_orakel_van_delphi_2.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\obj\Debug\net6.0\assignment_orakel_van_delphi_2.AssemblyInfo.cs
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\obj\Debug\net6.0\assignment_orakel_van_delphi_2.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\bin\Debug\net6.0\assignment_orakel_van_delphi_2.exe
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\bin\Debug\net6.0\assignment_orakel_van_delphi_2.deps.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\bin\Debug\net6.0\assignment_orakel_van_delphi_2.runtimeconfig.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\bin\Debug\net6.0\assignment_orakel_van_delphi_2.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\bin\Debug\net6.0\assignment_orakel_van_delphi_2.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\obj\Debug\net6.0\assignment_orakel_van_delphi_2.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\obj\Debug\net6.0\refint\assignment_orakel_van_delphi_2.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\obj\Debug\net6.0\assignment_orakel_van_delphi_2.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\obj\Debug\net6.0\assignment_orakel_van_delphi_2.genruntimeconfig.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_orakel_van_delphi_2\obj\Debug\net6.0\ref\assignment_orakel_van_delphi_2.dll
