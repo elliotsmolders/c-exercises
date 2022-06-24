@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\bin\Debug\net6.0\assignment_enum_seasons.exe
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\bin\Debug\net6.0\assignment_enum_seasons.deps.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\bin\Debug\net6.0\assignment_enum_seasons.runtimeconfig.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\bin\Debug\net6.0\assignment_enum_seasons.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\bin\Debug\net6.0\assignment_enum_seasons.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\obj\Debug\net6.0\assignment_enum_seasons.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\obj\Debug\net6.0\assignment_enum_seasons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\obj\Debug\net6.0\assignment_enum_seasons.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\obj\Debug\net6.0\assignment_enum_seasons.AssemblyInfo.cs
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\obj\Debug\net6.0\assignment_enum_seasons.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\obj\Debug\net6.0\assignment_enum_seasons.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\obj\Debug\net6.0\refint\assignment_enum_seasons.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\obj\Debug\net6.0\assignment_enum_seasons.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\obj\Debug\net6.0\assignment_enum_seasons.genruntimeconfig.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_seasons\obj\Debug\net6.0\ref\assignment_enum_seasons.dll
