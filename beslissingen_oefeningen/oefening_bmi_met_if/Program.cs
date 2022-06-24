@@ -25,11 +25,11 @@ else if(18.5 <= bmi && bmi <= 24.9){
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("normaal gewicht");
 }
-else if(25 <= bmi && bmi <= 29.9){
+else if(bmi <= 29.9){
     Console.ForegroundColor = ConsoleColor.DarkYellow;
     Console.WriteLine("overgewicht. Je loopt niet echt een risico, maar je mag niet dikker worden.");
 }
-else if(30 <= bmi && bmi <= 39.9){
+else if(bmi <= 39.9){
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Zwaarlijvigheid (obesitas). Verhoogde kans op allerlei aandoeningen zoals diabetes, hartaandoeningen en rugklachten. Je zou 5 tot 10 kg moeten vermageren.");
 }
