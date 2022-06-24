@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\bin\Debug\net6.0\oefening_casino.exe
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\bin\Debug\net6.0\oefening_casino.deps.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\bin\Debug\net6.0\oefening_casino.runtimeconfig.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\bin\Debug\net6.0\oefening_casino.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\bin\Debug\net6.0\oefening_casino.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\obj\Debug\net6.0\oefening_casino.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\obj\Debug\net6.0\oefening_casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\obj\Debug\net6.0\oefening_casino.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\obj\Debug\net6.0\oefening_casino.AssemblyInfo.cs
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\obj\Debug\net6.0\oefening_casino.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\obj\Debug\net6.0\oefening_casino.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\obj\Debug\net6.0\refint\oefening_casino.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\obj\Debug\net6.0\oefening_casino.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\obj\Debug\net6.0\oefening_casino.genruntimeconfig.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\oefening_casino\obj\Debug\net6.0\ref\oefening_casino.dll
