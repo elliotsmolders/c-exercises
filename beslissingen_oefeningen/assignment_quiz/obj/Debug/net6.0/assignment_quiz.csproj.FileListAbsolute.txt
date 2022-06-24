@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\bin\Debug\net6.0\assignment_quiz.exe
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\bin\Debug\net6.0\assignment_quiz.deps.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\bin\Debug\net6.0\assignment_quiz.runtimeconfig.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\bin\Debug\net6.0\assignment_quiz.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\bin\Debug\net6.0\assignment_quiz.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\obj\Debug\net6.0\assignment_quiz.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\obj\Debug\net6.0\assignment_quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\obj\Debug\net6.0\assignment_quiz.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\obj\Debug\net6.0\assignment_quiz.AssemblyInfo.cs
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\obj\Debug\net6.0\assignment_quiz.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\obj\Debug\net6.0\assignment_quiz.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\obj\Debug\net6.0\refint\assignment_quiz.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\obj\Debug\net6.0\assignment_quiz.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\obj\Debug\net6.0\assignment_quiz.genruntimeconfig.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_quiz\obj\Debug\net6.0\ref\assignment_quiz.dll
