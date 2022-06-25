@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\bin\Debug\net6.0\assignment_raad_het_getal.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\bin\Debug\net6.0\assignment_raad_het_getal.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\bin\Debug\net6.0\assignment_raad_het_getal.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\bin\Debug\net6.0\assignment_raad_het_getal.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\bin\Debug\net6.0\assignment_raad_het_getal.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\obj\Debug\net6.0\assignment_raad_het_getal.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\obj\Debug\net6.0\assignment_raad_het_getal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\obj\Debug\net6.0\assignment_raad_het_getal.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\obj\Debug\net6.0\assignment_raad_het_getal.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\obj\Debug\net6.0\assignment_raad_het_getal.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\obj\Debug\net6.0\assignment_raad_het_getal.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\obj\Debug\net6.0\refint\assignment_raad_het_getal.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\obj\Debug\net6.0\assignment_raad_het_getal.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\obj\Debug\net6.0\assignment_raad_het_getal.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_raad_het_getal\obj\Debug\net6.0\ref\assignment_raad_het_getal.dll
