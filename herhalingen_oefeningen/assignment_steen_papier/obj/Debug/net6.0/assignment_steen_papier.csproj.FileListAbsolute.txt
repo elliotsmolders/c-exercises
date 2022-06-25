@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\bin\Debug\net6.0\assignment_steen_papier.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\bin\Debug\net6.0\assignment_steen_papier.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\bin\Debug\net6.0\assignment_steen_papier.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\bin\Debug\net6.0\assignment_steen_papier.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\bin\Debug\net6.0\assignment_steen_papier.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\obj\Debug\net6.0\assignment_steen_papier.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\obj\Debug\net6.0\assignment_steen_papier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\obj\Debug\net6.0\assignment_steen_papier.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\obj\Debug\net6.0\assignment_steen_papier.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\obj\Debug\net6.0\assignment_steen_papier.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\obj\Debug\net6.0\assignment_steen_papier.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\obj\Debug\net6.0\refint\assignment_steen_papier.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\obj\Debug\net6.0\assignment_steen_papier.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\obj\Debug\net6.0\assignment_steen_papier.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_steen_papier\obj\Debug\net6.0\ref\assignment_steen_papier.dll
