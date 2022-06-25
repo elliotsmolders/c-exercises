@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\obj\Debug\net6.0\oefening_rna_transcriptie.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\obj\Debug\net6.0\oefening_rna_transcriptie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\obj\Debug\net6.0\oefening_rna_transcriptie.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\obj\Debug\net6.0\oefening_rna_transcriptie.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\obj\Debug\net6.0\oefening_rna_transcriptie.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\bin\Debug\net6.0\oefening_rna_transcriptie.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\bin\Debug\net6.0\oefening_rna_transcriptie.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\bin\Debug\net6.0\oefening_rna_transcriptie.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\bin\Debug\net6.0\oefening_rna_transcriptie.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\bin\Debug\net6.0\oefening_rna_transcriptie.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\obj\Debug\net6.0\oefening_rna_transcriptie.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\obj\Debug\net6.0\refint\oefening_rna_transcriptie.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\obj\Debug\net6.0\oefening_rna_transcriptie.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\obj\Debug\net6.0\oefening_rna_transcriptie.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_rna_transcriptie\obj\Debug\net6.0\ref\oefening_rna_transcriptie.dll
