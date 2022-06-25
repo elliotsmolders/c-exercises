@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\bin\Debug\net6.0\oefening_for_doordenker.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\bin\Debug\net6.0\oefening_for_doordenker.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\bin\Debug\net6.0\oefening_for_doordenker.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\bin\Debug\net6.0\oefening_for_doordenker.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\bin\Debug\net6.0\oefening_for_doordenker.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\obj\Debug\net6.0\oefening_for_doordenker.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\obj\Debug\net6.0\oefening_for_doordenker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\obj\Debug\net6.0\oefening_for_doordenker.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\obj\Debug\net6.0\oefening_for_doordenker.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\obj\Debug\net6.0\oefening_for_doordenker.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\obj\Debug\net6.0\oefening_for_doordenker.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\obj\Debug\net6.0\refint\oefening_for_doordenker.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\obj\Debug\net6.0\oefening_for_doordenker.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\obj\Debug\net6.0\oefening_for_doordenker.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker\obj\Debug\net6.0\ref\oefening_for_doordenker.dll
