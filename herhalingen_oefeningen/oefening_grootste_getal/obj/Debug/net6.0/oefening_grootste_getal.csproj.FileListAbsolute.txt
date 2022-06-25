@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\bin\Debug\net6.0\oefening_grootste_getal.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\bin\Debug\net6.0\oefening_grootste_getal.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\bin\Debug\net6.0\oefening_grootste_getal.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\bin\Debug\net6.0\oefening_grootste_getal.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\bin\Debug\net6.0\oefening_grootste_getal.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\obj\Debug\net6.0\oefening_grootste_getal.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\obj\Debug\net6.0\oefening_grootste_getal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\obj\Debug\net6.0\oefening_grootste_getal.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\obj\Debug\net6.0\oefening_grootste_getal.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\obj\Debug\net6.0\oefening_grootste_getal.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\obj\Debug\net6.0\oefening_grootste_getal.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\obj\Debug\net6.0\refint\oefening_grootste_getal.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\obj\Debug\net6.0\oefening_grootste_getal.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\obj\Debug\net6.0\oefening_grootste_getal.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_grootste_getal\obj\Debug\net6.0\ref\oefening_grootste_getal.dll
