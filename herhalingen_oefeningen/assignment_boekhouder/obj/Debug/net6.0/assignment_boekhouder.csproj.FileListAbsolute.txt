@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\bin\Debug\net6.0\assignment_boekhouder.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\bin\Debug\net6.0\assignment_boekhouder.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\bin\Debug\net6.0\assignment_boekhouder.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\bin\Debug\net6.0\assignment_boekhouder.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\bin\Debug\net6.0\assignment_boekhouder.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\obj\Debug\net6.0\assignment_boekhouder.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\obj\Debug\net6.0\assignment_boekhouder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\obj\Debug\net6.0\assignment_boekhouder.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\obj\Debug\net6.0\assignment_boekhouder.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\obj\Debug\net6.0\assignment_boekhouder.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\obj\Debug\net6.0\assignment_boekhouder.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\obj\Debug\net6.0\refint\assignment_boekhouder.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\obj\Debug\net6.0\assignment_boekhouder.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\obj\Debug\net6.0\assignment_boekhouder.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\assignment_boekhouder\obj\Debug\net6.0\ref\assignment_boekhouder.dll
