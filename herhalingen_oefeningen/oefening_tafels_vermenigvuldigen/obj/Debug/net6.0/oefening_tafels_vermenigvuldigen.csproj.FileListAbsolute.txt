@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\bin\Debug\net6.0\oefening_tafels_vermenigvuldigen.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\bin\Debug\net6.0\oefening_tafels_vermenigvuldigen.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\bin\Debug\net6.0\oefening_tafels_vermenigvuldigen.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\bin\Debug\net6.0\oefening_tafels_vermenigvuldigen.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\bin\Debug\net6.0\oefening_tafels_vermenigvuldigen.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\obj\Debug\net6.0\oefening_tafels_vermenigvuldigen.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\obj\Debug\net6.0\oefening_tafels_vermenigvuldigen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\obj\Debug\net6.0\oefening_tafels_vermenigvuldigen.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\obj\Debug\net6.0\oefening_tafels_vermenigvuldigen.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\obj\Debug\net6.0\oefening_tafels_vermenigvuldigen.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\obj\Debug\net6.0\oefening_tafels_vermenigvuldigen.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\obj\Debug\net6.0\refint\oefening_tafels_vermenigvuldigen.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\obj\Debug\net6.0\oefening_tafels_vermenigvuldigen.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\obj\Debug\net6.0\oefening_tafels_vermenigvuldigen.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_tafels_vermenigvuldigen\obj\Debug\net6.0\ref\oefening_tafels_vermenigvuldigen.dll
