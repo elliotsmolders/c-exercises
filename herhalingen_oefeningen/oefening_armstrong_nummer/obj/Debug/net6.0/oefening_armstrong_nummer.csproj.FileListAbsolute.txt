@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\bin\Debug\net6.0\oefening_armstrong_nummer.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\bin\Debug\net6.0\oefening_armstrong_nummer.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\bin\Debug\net6.0\oefening_armstrong_nummer.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\bin\Debug\net6.0\oefening_armstrong_nummer.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\bin\Debug\net6.0\oefening_armstrong_nummer.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\obj\Debug\net6.0\oefening_armstrong_nummer.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\obj\Debug\net6.0\oefening_armstrong_nummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\obj\Debug\net6.0\oefening_armstrong_nummer.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\obj\Debug\net6.0\oefening_armstrong_nummer.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\obj\Debug\net6.0\oefening_armstrong_nummer.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\obj\Debug\net6.0\oefening_armstrong_nummer.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\obj\Debug\net6.0\refint\oefening_armstrong_nummer.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\obj\Debug\net6.0\oefening_armstrong_nummer.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\obj\Debug\net6.0\oefening_armstrong_nummer.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_armstrong_nummer\obj\Debug\net6.0\ref\oefening_armstrong_nummer.dll
