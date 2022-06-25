@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\bin\Debug\net6.0\oefening_for_doordenker_extra.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\bin\Debug\net6.0\oefening_for_doordenker_extra.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\bin\Debug\net6.0\oefening_for_doordenker_extra.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\bin\Debug\net6.0\oefening_for_doordenker_extra.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\bin\Debug\net6.0\oefening_for_doordenker_extra.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\obj\Debug\net6.0\oefening_for_doordenker_extra.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\obj\Debug\net6.0\oefening_for_doordenker_extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\obj\Debug\net6.0\oefening_for_doordenker_extra.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\obj\Debug\net6.0\oefening_for_doordenker_extra.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\obj\Debug\net6.0\oefening_for_doordenker_extra.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\obj\Debug\net6.0\oefening_for_doordenker_extra.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\obj\Debug\net6.0\refint\oefening_for_doordenker_extra.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\obj\Debug\net6.0\oefening_for_doordenker_extra.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\obj\Debug\net6.0\oefening_for_doordenker_extra.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_for_doordenker_extra\obj\Debug\net6.0\ref\oefening_for_doordenker_extra.dll
