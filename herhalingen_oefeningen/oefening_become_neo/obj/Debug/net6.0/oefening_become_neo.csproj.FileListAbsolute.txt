@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\bin\Debug\net6.0\oefening_become_neo.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\bin\Debug\net6.0\oefening_become_neo.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\bin\Debug\net6.0\oefening_become_neo.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\bin\Debug\net6.0\oefening_become_neo.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\bin\Debug\net6.0\oefening_become_neo.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\obj\Debug\net6.0\oefening_become_neo.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\obj\Debug\net6.0\oefening_become_neo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\obj\Debug\net6.0\oefening_become_neo.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\obj\Debug\net6.0\oefening_become_neo.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\obj\Debug\net6.0\oefening_become_neo.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\obj\Debug\net6.0\oefening_become_neo.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\obj\Debug\net6.0\refint\oefening_become_neo.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\obj\Debug\net6.0\oefening_become_neo.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\obj\Debug\net6.0\oefening_become_neo.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_become_neo\obj\Debug\net6.0\ref\oefening_become_neo.dll
