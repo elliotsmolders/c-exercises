@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\bin\Debug\net6.0\oefening_beersong.exe
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\bin\Debug\net6.0\oefening_beersong.deps.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\bin\Debug\net6.0\oefening_beersong.runtimeconfig.json
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\bin\Debug\net6.0\oefening_beersong.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\bin\Debug\net6.0\oefening_beersong.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\obj\Debug\net6.0\oefening_beersong.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\obj\Debug\net6.0\oefening_beersong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\obj\Debug\net6.0\oefening_beersong.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\obj\Debug\net6.0\oefening_beersong.AssemblyInfo.cs
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\obj\Debug\net6.0\oefening_beersong.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\obj\Debug\net6.0\oefening_beersong.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\obj\Debug\net6.0\refint\oefening_beersong.dll
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\obj\Debug\net6.0\oefening_beersong.pdb
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\obj\Debug\net6.0\oefening_beersong.genruntimeconfig.cache
+C:\Users\ellio\c#course\herhalingen_oefeningen\oefening_beersong\obj\Debug\net6.0\ref\oefening_beersong.dll
