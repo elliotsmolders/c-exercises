@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\bin\Debug\net6.0\assignment_muziek_en_methoden.exe
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\bin\Debug\net6.0\assignment_muziek_en_methoden.deps.json
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\bin\Debug\net6.0\assignment_muziek_en_methoden.runtimeconfig.json
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\bin\Debug\net6.0\assignment_muziek_en_methoden.dll
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\bin\Debug\net6.0\assignment_muziek_en_methoden.pdb
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\obj\Debug\net6.0\assignment_muziek_en_methoden.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\obj\Debug\net6.0\assignment_muziek_en_methoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\obj\Debug\net6.0\assignment_muziek_en_methoden.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\obj\Debug\net6.0\assignment_muziek_en_methoden.AssemblyInfo.cs
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\obj\Debug\net6.0\assignment_muziek_en_methoden.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\obj\Debug\net6.0\assignment_muziek_en_methoden.dll
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\obj\Debug\net6.0\refint\assignment_muziek_en_methoden.dll
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\obj\Debug\net6.0\assignment_muziek_en_methoden.pdb
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\obj\Debug\net6.0\assignment_muziek_en_methoden.genruntimeconfig.cache
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_muziek_en_methoden\obj\Debug\net6.0\ref\assignment_muziek_en_methoden.dll
