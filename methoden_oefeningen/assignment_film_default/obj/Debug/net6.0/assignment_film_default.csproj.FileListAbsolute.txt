@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\bin\Debug\net6.0\assignment_film_default.exe
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\bin\Debug\net6.0\assignment_film_default.deps.json
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\bin\Debug\net6.0\assignment_film_default.runtimeconfig.json
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\bin\Debug\net6.0\assignment_film_default.dll
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\bin\Debug\net6.0\assignment_film_default.pdb
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\obj\Debug\net6.0\assignment_film_default.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\obj\Debug\net6.0\assignment_film_default.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\obj\Debug\net6.0\assignment_film_default.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\obj\Debug\net6.0\assignment_film_default.AssemblyInfo.cs
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\obj\Debug\net6.0\assignment_film_default.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\obj\Debug\net6.0\assignment_film_default.dll
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\obj\Debug\net6.0\refint\assignment_film_default.dll
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\obj\Debug\net6.0\assignment_film_default.pdb
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\obj\Debug\net6.0\assignment_film_default.genruntimeconfig.cache
+C:\Users\ellio\c#course\methoden_oefeningen\assignment_film_default\obj\Debug\net6.0\ref\assignment_film_default.dll
