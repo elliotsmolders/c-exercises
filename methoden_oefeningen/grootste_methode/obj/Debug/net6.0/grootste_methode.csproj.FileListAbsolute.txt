@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\bin\Debug\net6.0\grootste_methode.exe
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\bin\Debug\net6.0\grootste_methode.deps.json
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\bin\Debug\net6.0\grootste_methode.runtimeconfig.json
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\bin\Debug\net6.0\grootste_methode.dll
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\bin\Debug\net6.0\grootste_methode.pdb
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\obj\Debug\net6.0\grootste_methode.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\obj\Debug\net6.0\grootste_methode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\obj\Debug\net6.0\grootste_methode.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\obj\Debug\net6.0\grootste_methode.AssemblyInfo.cs
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\obj\Debug\net6.0\grootste_methode.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\obj\Debug\net6.0\grootste_methode.dll
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\obj\Debug\net6.0\refint\grootste_methode.dll
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\obj\Debug\net6.0\grootste_methode.pdb
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\obj\Debug\net6.0\grootste_methode.genruntimeconfig.cache
+C:\Users\ellio\c#course\methoden_oefeningen\grootste_methode\obj\Debug\net6.0\ref\grootste_methode.dll
