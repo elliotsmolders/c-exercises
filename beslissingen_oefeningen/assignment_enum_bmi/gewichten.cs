@@ -4,5 +4,5 @@ public enum Gewichten {
     overgewicht = 2,
     obesitas = 3,
     ernstigeZwaarlijvigheid = 4,
-    Onbekend = 5
+    onbekend = 5
 }

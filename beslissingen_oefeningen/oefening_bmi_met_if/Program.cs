@@ -17,6 +17,7 @@ Console.WriteLine("Geef je gewicht in kg:");
 double gewicht = Convert.ToDouble(Console.ReadLine());
 double bmi = Math.Round(gewicht/Math.Pow(lengte,2),1);
 Console.WriteLine($"Je hebt een BMI van {bmi}");
+
 if(bmi<18.5){
     Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("ondergewicht");

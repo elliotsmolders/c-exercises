@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\bin\Debug\net6.0\assignment_enum_bmi.exe
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\bin\Debug\net6.0\assignment_enum_bmi.deps.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\bin\Debug\net6.0\assignment_enum_bmi.runtimeconfig.json
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\bin\Debug\net6.0\assignment_enum_bmi.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\bin\Debug\net6.0\assignment_enum_bmi.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\obj\Debug\net6.0\assignment_enum_bmi.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\obj\Debug\net6.0\assignment_enum_bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\obj\Debug\net6.0\assignment_enum_bmi.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\obj\Debug\net6.0\assignment_enum_bmi.AssemblyInfo.cs
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\obj\Debug\net6.0\assignment_enum_bmi.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\obj\Debug\net6.0\assignment_enum_bmi.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\obj\Debug\net6.0\refint\assignment_enum_bmi.dll
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\obj\Debug\net6.0\assignment_enum_bmi.pdb
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\obj\Debug\net6.0\assignment_enum_bmi.genruntimeconfig.cache
+C:\Users\ellio\c#course\beslissingen_oefeningen\assignment_enum_bmi\obj\Debug\net6.0\ref\assignment_enum_bmi.dll
