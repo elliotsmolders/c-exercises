@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\bin\Debug\net6.0\assignment_vraag_array.exe
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\bin\Debug\net6.0\assignment_vraag_array.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\bin\Debug\net6.0\assignment_vraag_array.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\bin\Debug\net6.0\assignment_vraag_array.dll
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\bin\Debug\net6.0\assignment_vraag_array.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\obj\Debug\net6.0\assignment_vraag_array.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\obj\Debug\net6.0\assignment_vraag_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\obj\Debug\net6.0\assignment_vraag_array.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\obj\Debug\net6.0\assignment_vraag_array.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\obj\Debug\net6.0\assignment_vraag_array.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\obj\Debug\net6.0\assignment_vraag_array.dll
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\obj\Debug\net6.0\refint\assignment_vraag_array.dll
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\obj\Debug\net6.0\assignment_vraag_array.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\obj\Debug\net6.0\assignment_vraag_array.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_vraag_array\obj\Debug\net6.0\ref\assignment_vraag_array.dll
