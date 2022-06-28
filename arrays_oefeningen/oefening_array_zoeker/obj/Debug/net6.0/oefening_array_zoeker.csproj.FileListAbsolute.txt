@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\bin\Debug\net6.0\oefening_array_zoeker.exe
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\bin\Debug\net6.0\oefening_array_zoeker.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\bin\Debug\net6.0\oefening_array_zoeker.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\bin\Debug\net6.0\oefening_array_zoeker.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\bin\Debug\net6.0\oefening_array_zoeker.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\obj\Debug\net6.0\oefening_array_zoeker.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\obj\Debug\net6.0\oefening_array_zoeker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\obj\Debug\net6.0\oefening_array_zoeker.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\obj\Debug\net6.0\oefening_array_zoeker.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\obj\Debug\net6.0\oefening_array_zoeker.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\obj\Debug\net6.0\oefening_array_zoeker.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\obj\Debug\net6.0\refint\oefening_array_zoeker.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\obj\Debug\net6.0\oefening_array_zoeker.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\obj\Debug\net6.0\oefening_array_zoeker.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_array_zoeker\obj\Debug\net6.0\ref\oefening_array_zoeker.dll
