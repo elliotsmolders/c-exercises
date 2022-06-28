@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\oefening_opwarmers\bin\Debug\net6.0\oefening_opwarmers.exe
+C:\Users\ellio\c#course\oefening_opwarmers\bin\Debug\net6.0\oefening_opwarmers.deps.json
+C:\Users\ellio\c#course\oefening_opwarmers\bin\Debug\net6.0\oefening_opwarmers.runtimeconfig.json
+C:\Users\ellio\c#course\oefening_opwarmers\bin\Debug\net6.0\oefening_opwarmers.dll
+C:\Users\ellio\c#course\oefening_opwarmers\bin\Debug\net6.0\oefening_opwarmers.pdb
+C:\Users\ellio\c#course\oefening_opwarmers\obj\Debug\net6.0\oefening_opwarmers.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\oefening_opwarmers\obj\Debug\net6.0\oefening_opwarmers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\oefening_opwarmers\obj\Debug\net6.0\oefening_opwarmers.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\oefening_opwarmers\obj\Debug\net6.0\oefening_opwarmers.AssemblyInfo.cs
+C:\Users\ellio\c#course\oefening_opwarmers\obj\Debug\net6.0\oefening_opwarmers.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\oefening_opwarmers\obj\Debug\net6.0\oefening_opwarmers.dll
+C:\Users\ellio\c#course\oefening_opwarmers\obj\Debug\net6.0\refint\oefening_opwarmers.dll
+C:\Users\ellio\c#course\oefening_opwarmers\obj\Debug\net6.0\oefening_opwarmers.pdb
+C:\Users\ellio\c#course\oefening_opwarmers\obj\Debug\net6.0\oefening_opwarmers.genruntimeconfig.cache
+C:\Users\ellio\c#course\oefening_opwarmers\obj\Debug\net6.0\ref\oefening_opwarmers.dll
