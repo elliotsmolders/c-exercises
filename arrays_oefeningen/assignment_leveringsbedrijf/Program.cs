@@ -20,7 +20,7 @@ static int IsGetalInArray (int getalToCheck, int[]arr ){
 }
 
 static double vraagGewicht(){
-    Console.WriteLine("geef gewicht:");
+    Console.WriteLine("geef gewicht in kg:");
     return Convert.ToDouble(Console.ReadLine());
 }
 
