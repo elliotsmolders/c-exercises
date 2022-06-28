@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\bin\Debug\net6.0\assignment_leveringsbedrijf.exe
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\bin\Debug\net6.0\assignment_leveringsbedrijf.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\bin\Debug\net6.0\assignment_leveringsbedrijf.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\bin\Debug\net6.0\assignment_leveringsbedrijf.dll
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\bin\Debug\net6.0\assignment_leveringsbedrijf.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\obj\Debug\net6.0\assignment_leveringsbedrijf.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\obj\Debug\net6.0\assignment_leveringsbedrijf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\obj\Debug\net6.0\assignment_leveringsbedrijf.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\obj\Debug\net6.0\assignment_leveringsbedrijf.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\obj\Debug\net6.0\assignment_leveringsbedrijf.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\obj\Debug\net6.0\assignment_leveringsbedrijf.dll
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\obj\Debug\net6.0\refint\assignment_leveringsbedrijf.dll
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\obj\Debug\net6.0\assignment_leveringsbedrijf.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\obj\Debug\net6.0\assignment_leveringsbedrijf.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_leveringsbedrijf\obj\Debug\net6.0\ref\assignment_leveringsbedrijf.dll
