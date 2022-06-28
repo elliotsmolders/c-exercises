@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\oefening_arrayoefener1\bin\Debug\net6.0\oefening_arrayoefener1.exe
+C:\Users\ellio\c#course\oefening_arrayoefener1\bin\Debug\net6.0\oefening_arrayoefener1.deps.json
+C:\Users\ellio\c#course\oefening_arrayoefener1\bin\Debug\net6.0\oefening_arrayoefener1.runtimeconfig.json
+C:\Users\ellio\c#course\oefening_arrayoefener1\bin\Debug\net6.0\oefening_arrayoefener1.dll
+C:\Users\ellio\c#course\oefening_arrayoefener1\bin\Debug\net6.0\oefening_arrayoefener1.pdb
+C:\Users\ellio\c#course\oefening_arrayoefener1\obj\Debug\net6.0\oefening_arrayoefener1.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\oefening_arrayoefener1\obj\Debug\net6.0\oefening_arrayoefener1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\oefening_arrayoefener1\obj\Debug\net6.0\oefening_arrayoefener1.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\oefening_arrayoefener1\obj\Debug\net6.0\oefening_arrayoefener1.AssemblyInfo.cs
+C:\Users\ellio\c#course\oefening_arrayoefener1\obj\Debug\net6.0\oefening_arrayoefener1.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\oefening_arrayoefener1\obj\Debug\net6.0\oefening_arrayoefener1.dll
+C:\Users\ellio\c#course\oefening_arrayoefener1\obj\Debug\net6.0\refint\oefening_arrayoefener1.dll
+C:\Users\ellio\c#course\oefening_arrayoefener1\obj\Debug\net6.0\oefening_arrayoefener1.pdb
+C:\Users\ellio\c#course\oefening_arrayoefener1\obj\Debug\net6.0\oefening_arrayoefener1.genruntimeconfig.cache
+C:\Users\ellio\c#course\oefening_arrayoefener1\obj\Debug\net6.0\ref\oefening_arrayoefener1.dll
