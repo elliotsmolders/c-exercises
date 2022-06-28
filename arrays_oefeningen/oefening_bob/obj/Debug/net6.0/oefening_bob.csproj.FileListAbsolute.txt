@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\bin\Debug\net6.0\oefening_bob.exe
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\bin\Debug\net6.0\oefening_bob.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\bin\Debug\net6.0\oefening_bob.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\bin\Debug\net6.0\oefening_bob.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\bin\Debug\net6.0\oefening_bob.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\obj\Debug\net6.0\oefening_bob.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\obj\Debug\net6.0\oefening_bob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\obj\Debug\net6.0\oefening_bob.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\obj\Debug\net6.0\oefening_bob.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\obj\Debug\net6.0\oefening_bob.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\obj\Debug\net6.0\oefening_bob.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\obj\Debug\net6.0\refint\oefening_bob.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\obj\Debug\net6.0\oefening_bob.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\obj\Debug\net6.0\oefening_bob.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_bob\obj\Debug\net6.0\ref\oefening_bob.dll
