@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\bin\Debug\net6.0\extra_oef_array_viewer.exe
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\bin\Debug\net6.0\extra_oef_array_viewer.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\bin\Debug\net6.0\extra_oef_array_viewer.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\bin\Debug\net6.0\extra_oef_array_viewer.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\bin\Debug\net6.0\extra_oef_array_viewer.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\obj\Debug\net6.0\extra_oef_array_viewer.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\obj\Debug\net6.0\extra_oef_array_viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\obj\Debug\net6.0\extra_oef_array_viewer.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\obj\Debug\net6.0\extra_oef_array_viewer.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\obj\Debug\net6.0\extra_oef_array_viewer.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\obj\Debug\net6.0\extra_oef_array_viewer.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\obj\Debug\net6.0\refint\extra_oef_array_viewer.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\obj\Debug\net6.0\extra_oef_array_viewer.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\obj\Debug\net6.0\extra_oef_array_viewer.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_array_viewer\obj\Debug\net6.0\ref\extra_oef_array_viewer.dll
