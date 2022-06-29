@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\bin\Debug\net6.0\extra_oef_ondernemingsnummer.exe
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\bin\Debug\net6.0\extra_oef_ondernemingsnummer.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\bin\Debug\net6.0\extra_oef_ondernemingsnummer.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\bin\Debug\net6.0\extra_oef_ondernemingsnummer.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\bin\Debug\net6.0\extra_oef_ondernemingsnummer.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\obj\Debug\net6.0\extra_oef_ondernemingsnummer.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\obj\Debug\net6.0\extra_oef_ondernemingsnummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\obj\Debug\net6.0\extra_oef_ondernemingsnummer.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\obj\Debug\net6.0\extra_oef_ondernemingsnummer.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\obj\Debug\net6.0\extra_oef_ondernemingsnummer.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\obj\Debug\net6.0\extra_oef_ondernemingsnummer.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\obj\Debug\net6.0\refint\extra_oef_ondernemingsnummer.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\obj\Debug\net6.0\extra_oef_ondernemingsnummer.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\obj\Debug\net6.0\extra_oef_ondernemingsnummer.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_ondernemingsnummer\obj\Debug\net6.0\ref\extra_oef_ondernemingsnummer.dll
