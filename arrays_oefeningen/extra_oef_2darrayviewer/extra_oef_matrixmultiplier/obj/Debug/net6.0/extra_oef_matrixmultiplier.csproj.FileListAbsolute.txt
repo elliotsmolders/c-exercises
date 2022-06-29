@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\bin\Debug\net6.0\extra_oef_matrixmultiplier.exe
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\bin\Debug\net6.0\extra_oef_matrixmultiplier.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\bin\Debug\net6.0\extra_oef_matrixmultiplier.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\bin\Debug\net6.0\extra_oef_matrixmultiplier.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\bin\Debug\net6.0\extra_oef_matrixmultiplier.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\obj\Debug\net6.0\extra_oef_matrixmultiplier.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\obj\Debug\net6.0\extra_oef_matrixmultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\obj\Debug\net6.0\extra_oef_matrixmultiplier.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\obj\Debug\net6.0\extra_oef_matrixmultiplier.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\obj\Debug\net6.0\extra_oef_matrixmultiplier.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\obj\Debug\net6.0\extra_oef_matrixmultiplier.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\obj\Debug\net6.0\refint\extra_oef_matrixmultiplier.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\obj\Debug\net6.0\extra_oef_matrixmultiplier.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\obj\Debug\net6.0\extra_oef_matrixmultiplier.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_2darrayviewer\extra_oef_matrixmultiplier\obj\Debug\net6.0\ref\extra_oef_matrixmultiplier.dll
