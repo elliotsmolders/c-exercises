@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\bin\Debug\net6.0\extra_oef_parkeergarage.exe
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\bin\Debug\net6.0\extra_oef_parkeergarage.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\bin\Debug\net6.0\extra_oef_parkeergarage.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\bin\Debug\net6.0\extra_oef_parkeergarage.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\bin\Debug\net6.0\extra_oef_parkeergarage.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\obj\Debug\net6.0\extra_oef_parkeergarage.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\obj\Debug\net6.0\extra_oef_parkeergarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\obj\Debug\net6.0\extra_oef_parkeergarage.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\obj\Debug\net6.0\extra_oef_parkeergarage.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\obj\Debug\net6.0\extra_oef_parkeergarage.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\obj\Debug\net6.0\extra_oef_parkeergarage.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\obj\Debug\net6.0\refint\extra_oef_parkeergarage.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\obj\Debug\net6.0\extra_oef_parkeergarage.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\obj\Debug\net6.0\extra_oef_parkeergarage.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_password_generator\extra_oef_parkeergarage\obj\Debug\net6.0\ref\extra_oef_parkeergarage.dll
