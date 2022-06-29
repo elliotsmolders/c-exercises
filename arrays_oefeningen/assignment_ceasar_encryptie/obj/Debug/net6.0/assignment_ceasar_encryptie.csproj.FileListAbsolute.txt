@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\bin\Debug\net6.0\assignment_ceasar_encryptie.exe
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\bin\Debug\net6.0\assignment_ceasar_encryptie.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\bin\Debug\net6.0\assignment_ceasar_encryptie.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\bin\Debug\net6.0\assignment_ceasar_encryptie.dll
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\bin\Debug\net6.0\assignment_ceasar_encryptie.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\obj\Debug\net6.0\assignment_ceasar_encryptie.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\obj\Debug\net6.0\assignment_ceasar_encryptie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\obj\Debug\net6.0\assignment_ceasar_encryptie.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\obj\Debug\net6.0\assignment_ceasar_encryptie.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\obj\Debug\net6.0\assignment_ceasar_encryptie.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\obj\Debug\net6.0\assignment_ceasar_encryptie.dll
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\obj\Debug\net6.0\refint\assignment_ceasar_encryptie.dll
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\obj\Debug\net6.0\assignment_ceasar_encryptie.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\obj\Debug\net6.0\assignment_ceasar_encryptie.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\assignment_ceasar_encryptie\obj\Debug\net6.0\ref\assignment_ceasar_encryptie.dll
