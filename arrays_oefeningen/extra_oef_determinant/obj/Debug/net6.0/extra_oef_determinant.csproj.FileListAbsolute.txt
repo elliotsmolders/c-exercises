@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\bin\Debug\net6.0\extra_oef_determinant.exe
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\bin\Debug\net6.0\extra_oef_determinant.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\bin\Debug\net6.0\extra_oef_determinant.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\bin\Debug\net6.0\extra_oef_determinant.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\bin\Debug\net6.0\extra_oef_determinant.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\obj\Debug\net6.0\extra_oef_determinant.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\obj\Debug\net6.0\extra_oef_determinant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\obj\Debug\net6.0\extra_oef_determinant.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\obj\Debug\net6.0\extra_oef_determinant.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\obj\Debug\net6.0\extra_oef_determinant.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\obj\Debug\net6.0\extra_oef_determinant.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\obj\Debug\net6.0\refint\extra_oef_determinant.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\obj\Debug\net6.0\extra_oef_determinant.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\obj\Debug\net6.0\extra_oef_determinant.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_determinant\obj\Debug\net6.0\ref\extra_oef_determinant.dll
