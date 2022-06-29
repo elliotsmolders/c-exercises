@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\obj\Debug\net6.0\oefening_hamming_distance.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\obj\Debug\net6.0\oefening_hamming_distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\obj\Debug\net6.0\oefening_hamming_distance.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\obj\Debug\net6.0\oefening_hamming_distance.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\obj\Debug\net6.0\oefening_hamming_distance.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\bin\Debug\net6.0\oefening_hamming_distance.exe
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\bin\Debug\net6.0\oefening_hamming_distance.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\bin\Debug\net6.0\oefening_hamming_distance.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\bin\Debug\net6.0\oefening_hamming_distance.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\bin\Debug\net6.0\oefening_hamming_distance.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\obj\Debug\net6.0\oefening_hamming_distance.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\obj\Debug\net6.0\refint\oefening_hamming_distance.dll
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\obj\Debug\net6.0\oefening_hamming_distance.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\obj\Debug\net6.0\oefening_hamming_distance.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\oefening_hamming_distance\obj\Debug\net6.0\ref\oefening_hamming_distance.dll
