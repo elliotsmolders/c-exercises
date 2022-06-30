@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\bin\Debug\net6.0\extra_oef_robot_simulator.exe
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\bin\Debug\net6.0\extra_oef_robot_simulator.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\bin\Debug\net6.0\extra_oef_robot_simulator.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\bin\Debug\net6.0\extra_oef_robot_simulator.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\bin\Debug\net6.0\extra_oef_robot_simulator.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\obj\Debug\net6.0\extra_oef_robot_simulator.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\obj\Debug\net6.0\extra_oef_robot_simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\obj\Debug\net6.0\extra_oef_robot_simulator.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\obj\Debug\net6.0\extra_oef_robot_simulator.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\obj\Debug\net6.0\extra_oef_robot_simulator.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\obj\Debug\net6.0\extra_oef_robot_simulator.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\obj\Debug\net6.0\refint\extra_oef_robot_simulator.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\obj\Debug\net6.0\extra_oef_robot_simulator.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\obj\Debug\net6.0\extra_oef_robot_simulator.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_robot_simulator\obj\Debug\net6.0\ref\extra_oef_robot_simulator.dll
