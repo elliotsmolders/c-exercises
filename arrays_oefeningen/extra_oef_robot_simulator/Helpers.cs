@@ -13,23 +13,29 @@ public class Helpers
         Instructions instruction = (Instructions)Enum.Parse(typeof(Instructions),Convert.ToString(input));
         return instruction;
     }
-    public void ExecuteInput(Instructions instruction,Directions currentDirection,int[]currentPosition){
+    public void ExecuteInput(Instructions instruction,ref Directions currentDirection,int[]currentPosition){
         switch(instruction){
             case Instructions.R:{
-                MoveRobot(direction:ChangeDirection(currentDirection:currentDirection,changeDirectionBy:1),currentPosition:currentPosition,amount:1);
+                MoveRobot(direction:ChangeDirection(currentDirection:ref currentDirection,changeDirectionBy:1),currentPosition:currentPosition,amount:1);
+                Console.SetCursorPosition(currentPosition[0],currentPosition[1]);
+                System.Console.WriteLine("R");
                 break;
             }
             case Instructions.L:{
-                MoveRobot(direction:ChangeDirection(currentDirection:currentDirection,changeDirectionBy:-1),currentPosition:currentPosition,amount:1);
+                MoveRobot(direction:ChangeDirection(currentDirection:ref currentDirection,changeDirectionBy:-1),currentPosition:currentPosition,amount:1);
+                Console.SetCursorPosition(currentPosition[0],currentPosition[1]);
+                System.Console.WriteLine("L");
                 break;
             }
             case Instructions.A:{
                 MoveRobot(direction:currentDirection,currentPosition:currentPosition,amount:1);
+                Console.SetCursorPosition(currentPosition[0],currentPosition[1]);
+                System.Console.WriteLine("A");
                 break;
             }
         }
     }
-    public Directions ChangeDirection(Directions currentDirection, int changeDirectionBy){
+    public Directions ChangeDirection(ref Directions currentDirection, int changeDirectionBy){
             if ((int)currentDirection + changeDirectionBy > 4){
             currentDirection += changeDirectionBy - 4;
             }

@@ -21,15 +21,16 @@ Say a robot starts at {7, 3} facing north. Then running this stream of instructi
 
 Teken het gevolgde pad in de console (gebruik Console.SetCursorPosition()). */
 Helpers helper = new Helpers();
-
-int[] currentPosition = {0,0};
+int[] currentPosition = {4,4};
 Directions currentDirection = Directions.North;
 
 char[] userInput = helper.GetUserInput();
+Console.Clear();
 for(int i = 0; i<userInput.Length;i++){
-    helper.ExecuteInput(instruction:helper.ConvertInput(userInput[i]),currentDirection:currentDirection,currentPosition:currentPosition);
+    helper.ExecuteInput(instruction:helper.ConvertInput(userInput[i]),currentDirection:ref currentDirection,currentPosition:currentPosition);
 }
-System.Console.WriteLine($"{String.Join(',',currentPosition)}");
+
+//System.Console.WriteLine($"{String.Join(',',currentPosition)}");
 
 /* System.Console.WriteLine(helper.ConvertInput('A'));
 helper.ConvertInput('A'); */
