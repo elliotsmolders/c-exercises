@@ -24,6 +24,31 @@ Rugnummer   Goede   Domme   Verschil
 2               6       7       -1
 Het programma toont ook welke speler(s) het meest performant waren, namelijk zij met het grootste positieve verschil tussen goede en domme acties, alsook de minst performante en de meeste “gemiddelde” speler (i.e. verschil == 0 ) */
 
-int[,]arr = new int[12,2];
+Helpers helper = new Helpers();
+
+int[,]arrOfPlayerScores = new int[12,2];
+helper.Fill2DArrayWithInt(arrOfPlayerScores,1);
+
+int[]arrOfPlayerScoresTotal = new int[12];
+
+int NumberInput = helper.AskInt("Player number 1-12\npress 99 to finish");
+while(NumberInput!=99){
+    helper.AdjustPlayerArray(arr:arrOfPlayerScores, playerNumber:NumberInput,typeAction:helper.AskChar(),actionAmount:helper.AskInt("amount of actions:"),resultArray:arrOfPlayerScoresTotal);
+    NumberInput = helper.AskInt("Player number 1-12\npress 99 to finish");
+}
 
 
+int maxValue = helper.HighestValueInArray(arrOfPlayerScoresTotal);
+int[]playersWithHighest = helper.FindIndexesOfValue(maxValue,arrOfPlayerScoresTotal);
+
+int minValue = helper.LowestValueInArray(arrOfPlayerScoresTotal);
+int[]playersWithLowest = helper.FindIndexesOfValue(minValue,arrOfPlayerScoresTotal);
+
+int mostNeutralValue = helper.MostNeutralValueInArray(arrOfPlayerScoresTotal);
+int[]playersWithNeutral = helper.FindIndexesOfValue(mostNeutralValue,arrOfPlayerScoresTotal);
+
+System.Console.WriteLine($"Speler\tGoede Acties\tSlechte Acties\tResultaat");
+helper.VisualiseResults(arrOfPlayerScores,arrOfPlayerScoresTotal);
+System.Console.WriteLine($"Meest performante speler(s):{String.Join(',',playersWithHighest)} met score van:{maxValue}");
+System.Console.WriteLine($"Minst performante speler(s):{String.Join(',',playersWithLowest)} met score van:{minValue}");
+System.Console.WriteLine($"Meest gemiddelde speler(s):{String.Join(',',playersWithNeutral)} met score van:{mostNeutralValue}");

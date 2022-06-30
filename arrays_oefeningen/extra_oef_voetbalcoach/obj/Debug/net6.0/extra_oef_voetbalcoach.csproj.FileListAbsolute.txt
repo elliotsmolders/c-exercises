@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\bin\Debug\net6.0\extra_oef_voetbalcoach.exe
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\bin\Debug\net6.0\extra_oef_voetbalcoach.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\bin\Debug\net6.0\extra_oef_voetbalcoach.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\bin\Debug\net6.0\extra_oef_voetbalcoach.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\bin\Debug\net6.0\extra_oef_voetbalcoach.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\obj\Debug\net6.0\extra_oef_voetbalcoach.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\obj\Debug\net6.0\extra_oef_voetbalcoach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\obj\Debug\net6.0\extra_oef_voetbalcoach.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\obj\Debug\net6.0\extra_oef_voetbalcoach.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\obj\Debug\net6.0\extra_oef_voetbalcoach.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\obj\Debug\net6.0\extra_oef_voetbalcoach.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\obj\Debug\net6.0\refint\extra_oef_voetbalcoach.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\obj\Debug\net6.0\extra_oef_voetbalcoach.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\obj\Debug\net6.0\extra_oef_voetbalcoach.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_voetbalcoach\obj\Debug\net6.0\ref\extra_oef_voetbalcoach.dll
