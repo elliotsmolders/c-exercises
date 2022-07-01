@@ -46,7 +46,6 @@ public class Helpers
         for (int i = 0; i < arrOfIndexes.Length; i++)
         {
             arrToUpdate[arrOfIndexes[i]-1] = arrWithAnswer[arrOfIndexes[i]-1];
-            System.Console.WriteLine(arrOfIndexes.Length);
         }
         return arrToUpdate;
     }
