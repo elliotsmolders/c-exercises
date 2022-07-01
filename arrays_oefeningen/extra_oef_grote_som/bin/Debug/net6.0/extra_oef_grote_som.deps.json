@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "extra_oef_grote_som/1.0.0": {
+        "runtime": {
+          "extra_oef_grote_som.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "extra_oef_grote_som/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

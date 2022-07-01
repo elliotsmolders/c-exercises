@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\bin\Debug\net6.0\extra_oef_grote_som.exe
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\bin\Debug\net6.0\extra_oef_grote_som.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\bin\Debug\net6.0\extra_oef_grote_som.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\bin\Debug\net6.0\extra_oef_grote_som.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\bin\Debug\net6.0\extra_oef_grote_som.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\obj\Debug\net6.0\extra_oef_grote_som.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\obj\Debug\net6.0\extra_oef_grote_som.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\obj\Debug\net6.0\extra_oef_grote_som.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\obj\Debug\net6.0\extra_oef_grote_som.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\obj\Debug\net6.0\extra_oef_grote_som.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\obj\Debug\net6.0\extra_oef_grote_som.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\obj\Debug\net6.0\refint\extra_oef_grote_som.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\obj\Debug\net6.0\extra_oef_grote_som.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\obj\Debug\net6.0\extra_oef_grote_som.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_grote_som\obj\Debug\net6.0\ref\extra_oef_grote_som.dll
