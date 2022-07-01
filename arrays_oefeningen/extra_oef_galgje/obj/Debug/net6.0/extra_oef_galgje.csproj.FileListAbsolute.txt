@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\bin\Debug\net6.0\extra_oef_galgje.exe
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\bin\Debug\net6.0\extra_oef_galgje.deps.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\bin\Debug\net6.0\extra_oef_galgje.runtimeconfig.json
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\bin\Debug\net6.0\extra_oef_galgje.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\bin\Debug\net6.0\extra_oef_galgje.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\obj\Debug\net6.0\extra_oef_galgje.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\obj\Debug\net6.0\extra_oef_galgje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\obj\Debug\net6.0\extra_oef_galgje.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\obj\Debug\net6.0\extra_oef_galgje.AssemblyInfo.cs
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\obj\Debug\net6.0\extra_oef_galgje.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\obj\Debug\net6.0\extra_oef_galgje.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\obj\Debug\net6.0\refint\extra_oef_galgje.dll
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\obj\Debug\net6.0\extra_oef_galgje.pdb
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\obj\Debug\net6.0\extra_oef_galgje.genruntimeconfig.cache
+C:\Users\ellio\c#course\arrays_oefeningen\extra_oef_galgje\obj\Debug\net6.0\ref\extra_oef_galgje.dll
