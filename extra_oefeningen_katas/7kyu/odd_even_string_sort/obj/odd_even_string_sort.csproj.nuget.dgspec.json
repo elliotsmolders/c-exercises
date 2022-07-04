@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ellio\\c#course\\extra_oefeningen_katas\\8kyu\\multiplying_2_numbers\\odd_even_string_sort\\odd_even_string_sort.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ellio\\c#course\\extra_oefeningen_katas\\8kyu\\multiplying_2_numbers\\odd_even_string_sort\\odd_even_string_sort.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ellio\\c#course\\extra_oefeningen_katas\\8kyu\\multiplying_2_numbers\\odd_even_string_sort\\odd_even_string_sort.csproj",
+        "projectName": "odd_even_string_sort",
+        "projectPath": "C:\\Users\\ellio\\c#course\\extra_oefeningen_katas\\8kyu\\multiplying_2_numbers\\odd_even_string_sort\\odd_even_string_sort.csproj",
+        "packagesPath": "C:\\Users\\ellio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ellio\\c#course\\extra_oefeningen_katas\\8kyu\\multiplying_2_numbers\\odd_even_string_sort\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ellio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

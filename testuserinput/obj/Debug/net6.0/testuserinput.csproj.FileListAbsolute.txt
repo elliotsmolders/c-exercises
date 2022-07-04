@@ -1,0 +1,15 @@
+C:\Users\ellio\c#course\testuserinput\bin\Debug\net6.0\testuserinput.exe
+C:\Users\ellio\c#course\testuserinput\bin\Debug\net6.0\testuserinput.deps.json
+C:\Users\ellio\c#course\testuserinput\bin\Debug\net6.0\testuserinput.runtimeconfig.json
+C:\Users\ellio\c#course\testuserinput\bin\Debug\net6.0\testuserinput.dll
+C:\Users\ellio\c#course\testuserinput\bin\Debug\net6.0\testuserinput.pdb
+C:\Users\ellio\c#course\testuserinput\obj\Debug\net6.0\testuserinput.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\testuserinput\obj\Debug\net6.0\testuserinput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\testuserinput\obj\Debug\net6.0\testuserinput.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\testuserinput\obj\Debug\net6.0\testuserinput.AssemblyInfo.cs
+C:\Users\ellio\c#course\testuserinput\obj\Debug\net6.0\testuserinput.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\testuserinput\obj\Debug\net6.0\testuserinput.dll
+C:\Users\ellio\c#course\testuserinput\obj\Debug\net6.0\refint\testuserinput.dll
+C:\Users\ellio\c#course\testuserinput\obj\Debug\net6.0\testuserinput.pdb
+C:\Users\ellio\c#course\testuserinput\obj\Debug\net6.0\testuserinput.genruntimeconfig.cache
+C:\Users\ellio\c#course\testuserinput\obj\Debug\net6.0\ref\testuserinput.dll

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ellio\\c#course\\oefening_arrayoefener1\\oefening_arrayoefener1.csproj": {}
+    "C:\\Users\\ellio\\c#course\\arrays_oefeningen\\oefening_arrayoefener1\\oefening_arrayoefener1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ellio\\c#course\\oefening_arrayoefener1\\oefening_arrayoefener1.csproj": {
+    "C:\\Users\\ellio\\c#course\\arrays_oefeningen\\oefening_arrayoefener1\\oefening_arrayoefener1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ellio\\c#course\\oefening_arrayoefener1\\oefening_arrayoefener1.csproj",
+        "projectUniqueName": "C:\\Users\\ellio\\c#course\\arrays_oefeningen\\oefening_arrayoefener1\\oefening_arrayoefener1.csproj",
         "projectName": "oefening_arrayoefener1",
-        "projectPath": "C:\\Users\\ellio\\c#course\\oefening_arrayoefener1\\oefening_arrayoefener1.csproj",
+        "projectPath": "C:\\Users\\ellio\\c#course\\arrays_oefeningen\\oefening_arrayoefener1\\oefening_arrayoefener1.csproj",
         "packagesPath": "C:\\Users\\ellio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ellio\\c#course\\oefening_arrayoefener1\\obj\\",
+        "outputPath": "C:\\Users\\ellio\\c#course\\arrays_oefeningen\\oefening_arrayoefener1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ellio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ellio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

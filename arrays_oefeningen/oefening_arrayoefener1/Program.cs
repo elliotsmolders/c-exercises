@@ -30,6 +30,8 @@ for(int i = 0; i<arr1.Length;i++){
     som+= getal;
     arr1[i] = getal;
 }
+
+
 System.Console.WriteLine($"som: {som}");
 System.Console.WriteLine($"gemiddelde: {BerekenGemiddelde(som,numbersAmount)}");
 System.Console.WriteLine($"biggest number: {arr1.Max()}");
