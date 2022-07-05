@@ -1,0 +1,17 @@
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.AssemblyInfoInputs.cache
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.AssemblyInfo.cs
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\bin\Debug\net6.0\ConsoleMusicPlayer.exe
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\bin\Debug\net6.0\ConsoleMusicPlayer.deps.json
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\bin\Debug\net6.0\ConsoleMusicPlayer.runtimeconfig.json
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\bin\Debug\net6.0\ConsoleMusicPlayer.dll
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\bin\Debug\net6.0\ConsoleMusicPlayer.pdb
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.dll
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\refint\ConsoleMusicPlayer.dll
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.pdb
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.genruntimeconfig.cache
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\ref\ConsoleMusicPlayer.dll
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\Interop.WMPLib.dll
+C:\Users\ellio\c#course\module1\project\ConsoleMusicPlayer\obj\Debug\net6.0\ConsoleMusicPlayer.csproj.ResolveComReference.cache
