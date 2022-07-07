@@ -9,53 +9,88 @@ namespace ConsoleMusicPlayer
 {
     internal class Backend
     {
-        private void PauseSong(WindowsMediaPlayer player)
+        WindowsMediaPlayer _player;
+        Frontend _frontend;
+        public Backend(WindowsMediaPlayer player, Frontend frontend)
         {
-            player.controls.pause();
+            _player = player;
+            _frontend = frontend;   
         }
-        private void PlaySong(WindowsMediaPlayer player)
+        public bool HandleChoice(int userChoice)
         {
-            player.controls.play();
+            bool exitApplication = false;
+            switch (userChoice)
+            {
+                case (int)UserChoice.TogglePlayPause: { if ((int)_player.playState == 3) { PauseSong(); } else { PlaySong(); }; break; }
+                case (int)UserChoice.ChangeVolume: { ChangeVolume(); break; }
+                case (int)UserChoice.ToggleMute: { ToggleMute(); break; }
+                case (int)UserChoice.SpeedUpSong: { FastForward(); break; }
+                case (int)UserChoice.SlowDownSong: { FastReverse(); break; }
+                case (int)UserChoice.PlayNewSong: { _player.URL = _frontend.GetUserFile(); break; }
+                case (int)UserChoice.StopPlayingCurrentSong: { StopSong(); break; }
+                case (int)UserChoice.StopApplication: { exitApplication=true; break; }
+            }
+            return exitApplication;
         }
-        private void StopSong(WindowsMediaPlayer player)
+        private void PauseSong()
         {
-            player.controls.stop();
+            _player.controls.pause();
         }
-        private void ChangeVolume(WindowsMediaPlayer player)
+        private void PlaySong()
+        {
+            _player.controls.play();
+        }
+        private void StopSong()
+        {
+            _player.controls.stop();
+        }
+        private void ChangeVolume()
         {
             Console.WriteLine("Give new volume level: ");
             int volume;
             bool validInput = Int32.TryParse(Console.ReadLine(), out volume);
             if (!validInput)
             {
+                Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine("Input was not a number, please give a number between 0-100");
-                ChangeVolume(player);
+                Console.ResetColor();
+                ChangeVolume();
+     
                 return;
             }
             if(volume <0 || volume > 100)
             {
+                Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine("Input was not between 0-100, please give a number between 0-100");
-                ChangeVolume(player);
+                Console.ResetColor();
+                ChangeVolume();
+                
                 return;
             }
-            player.settings.volume = volume;
+            _player.settings.volume = volume;
         }
-        private void ToggleMute(WindowsMediaPlayer player)
+        private void ToggleMute()
         {
-            player.settings.mute ^= true;
+            _player.settings.mute ^= true;
         }
-        public bool HandleChoice(WindowsMediaPlayer player, int userChoice,Frontend frontend)
+        private void FastForward()
         {
-            switch (userChoice)
+            _player.settings.rate += 0.25;
+        }
+        private void FastReverse()
+        {
+            if(_player.settings.rate > 0.25)
             {
-                case 1: { if ((int)player.playState == 3) { PauseSong(player); } else { PlaySong(player); };break; }
-                case 2: { ChangeVolume(player); break; }
-                case 3: { ToggleMute(player); break; }
-                case 4: { player.URL = frontend.GetUserFile(); break; }
-                case 5: { StopSong(player); break; }
-                case 6: { return true; }
+                _player.settings.rate -= 0.25;
             }
-            return false;
+            else
+            {
+                Console.ForegroundColor= ConsoleColor.DarkRed;
+                Console.WriteLine("Can't slow down more");
+                Console.ResetColor();
+            }
+            
         }
+
     }
 }
