@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConsoleMusicPlayer
+﻿namespace ConsoleMusicPlayer
 {
     public enum UserChoice
     {
+        Unknown = 0,
         TogglePlayPause = 1,
         ChangeVolume = 2,
         ToggleMute = 3,

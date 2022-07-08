@@ -1,23 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using WMPLib;
+﻿using WMPLib;
 
 namespace ConsoleMusicPlayer
 {
     public class Frontend
     {
-        WindowsMediaPlayer _player;
+        private WindowsMediaPlayer _player;
+
         public Frontend(WindowsMediaPlayer player)
         {
             _player = player;
         }
+
         public void PrintFrontend()
-        {   
+        {
             PrintMenu();
-            Thread.Sleep(100); 
+            Thread.Sleep(100);
             /* app breaks without this, Unhandled exception. System.Runtime.InteropServices.COMException (0x8001010A)
             : The message filter indicated that the application is busy.*/
             PrintPlayerState();
@@ -27,6 +24,7 @@ namespace ConsoleMusicPlayer
             PrintPlaySpeed();
             PrintDuration();
         }
+
         public string GetUserFile()
         {
             Console.WriteLine("Geef bestand om af te spelen:");
@@ -40,6 +38,7 @@ namespace ConsoleMusicPlayer
             }
             return filename;
         }
+
         public int GetUserChoice()
         {
             Console.WriteLine("Choose an option:");
@@ -60,8 +59,8 @@ namespace ConsoleMusicPlayer
                 return GetUserChoice();
             }
             return userChoice;
-
         }
+
         private void PrintMenu()
         {
             Console.Clear();
@@ -74,6 +73,7 @@ namespace ConsoleMusicPlayer
             Console.WriteLine("7. Stop");
             Console.WriteLine("8. Quit");
         }
+
         private void PrintVolumeState()
         {
             int volumeState = _player.settings.volume;
@@ -85,17 +85,20 @@ namespace ConsoleMusicPlayer
             }
             Console.WriteLine($"Volume = {volumeState} %");
         }
+
         private void PrintVolumeBar()
         {
             int volume = _player.settings.volume;
-            string volumebar= $"[{new string('*',volume/5)}{new string(' ',20-volume/5)}]";
+            string volumebar = $"[{new string('*', volume / 5)}{new string(' ', 20 - volume / 5)}]";
             Console.WriteLine(volumebar);
         }
+
         private void PrintPlayerState()
         {
             string[] statesArray = { "Undefined", "Stopped", "Paused", "Playing", "	ScanForward", "ScanReverse", "Buffering", "Waiting", "MediaEnded", "Transitioning", "Ready", "Reconnecting" };
             Console.WriteLine($"State: {statesArray[(int)_player.playState]}");
         }
+
         private void PrintPlaySpeed()
         {
             Console.Write($"playback speed = ");
@@ -103,23 +106,23 @@ namespace ConsoleMusicPlayer
             {
                 Console.ForegroundColor = ConsoleColor.Green;
             }
-            else if(_player.settings.rate < 1)
+            else if (_player.settings.rate < 1)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
             }
             Console.WriteLine($"{_player.settings.rate}x");
             Console.ResetColor();
         }
+
         private void PrintDuration()
         {
             double seconds = _player.currentMedia.duration;
             Console.WriteLine($"song length: {TimeSpan.FromSeconds(seconds).ToString(@"m\:ss")}");
         }
+
         private void PrintSongName()
         {
             Console.WriteLine($"song name: {_player.currentMedia.name}");
         }
     }
 }
-
-
