@@ -13,19 +13,32 @@ namespace ConsoleMusicPlayer
             _frontend = frontend;
         }
 
-        public bool HandleChoice(int userChoice)
+        public bool HandleChoice(UserChoice userChoice)
         {
             bool exitApplication = false;
             switch (userChoice)
             {
-                case (int)UserChoice.TogglePlayPause: { if ((int)_player.playState == 3) { PauseSong(); } else { PlaySong(); }; break; }
-                case (int)UserChoice.ChangeVolume: { ChangeVolume(); break; }
-                case (int)UserChoice.ToggleMute: { ToggleMute(); break; }
-                case (int)UserChoice.SpeedUpSong: { FastForward(); break; }
-                case (int)UserChoice.SlowDownSong: { FastReverse(); break; }
-                case (int)UserChoice.PlayNewSong: { _player.URL = _frontend.GetUserFile(); break; }
-                case (int)UserChoice.StopPlayingCurrentSong: { StopSong(); break; }
-                case (int)UserChoice.StopApplication: { exitApplication = true; break; }
+                case UserChoice.TogglePlayPause:
+                    {
+
+                        if (_player.playState == WMPPlayState.wmppsPlaying)
+                        {
+                            PauseSong();
+                        }
+                        else
+                        {
+                            PlaySong();
+                        };
+                        break;
+                    }
+
+                case UserChoice.ChangeVolume: { _player.settings.volume = ChangeVolume(); break; }
+                case UserChoice.ToggleMute: { ToggleMute(); break; }
+                case UserChoice.SpeedUpSong: { FastForward(); break; }
+                case UserChoice.SlowDownSong: { SlowDown(); break; }
+                case UserChoice.PlayNewSong: { _player.URL = _frontend.GetUserFile(); break; }
+                case UserChoice.StopPlayingCurrentSong: { StopSong(); break; }
+                case UserChoice.StopApplication: { exitApplication = true; break; }
             }
             return exitApplication;
         }
@@ -45,31 +58,25 @@ namespace ConsoleMusicPlayer
             _player.controls.stop();
         }
 
-        private void ChangeVolume()
+        private int ChangeVolume()
         {
             Console.WriteLine("Give new volume level: ");
             int volume;
-            bool validInput = Int32.TryParse(Console.ReadLine(), out volume);
-            if (!validInput)
+            if (!Int32.TryParse(Console.ReadLine(), out volume))
             {
-                Console.ForegroundColor = ConsoleColor.DarkRed;
-                Console.WriteLine("Input was not a number, please give a number between 0-100");
-                Console.ResetColor();
-                ChangeVolume();
+                _frontend.PrintErrorMessage("Input was not a number, please give a number between 0 - 100");
 
-                return;
+                return ChangeVolume();
             }
             if (volume < 0 || volume > 100)
             {
-                Console.ForegroundColor = ConsoleColor.DarkRed;
-                Console.WriteLine("Input was not between 0-100, please give a number between 0-100");
-                Console.ResetColor();
-                ChangeVolume();
+                _frontend.PrintErrorMessage("Input was not between 0-100, please give a number between 0-100");
 
-                return;
+                return ChangeVolume();
             }
-            _player.settings.volume = volume;
+            return volume;
         }
+
 
         private void ToggleMute()
         {
@@ -81,7 +88,7 @@ namespace ConsoleMusicPlayer
             _player.settings.rate += 0.25;
         }
 
-        private void FastReverse()
+        private void SlowDown()
         {
             if (_player.settings.rate > 0.25)
             {
@@ -89,9 +96,7 @@ namespace ConsoleMusicPlayer
             }
             else
             {
-                Console.ForegroundColor = ConsoleColor.DarkRed;
-                Console.WriteLine("Can't slow down more");
-                Console.ResetColor();
+                _frontend.PrintErrorMessage("Can't slow down more");
             }
         }
     }

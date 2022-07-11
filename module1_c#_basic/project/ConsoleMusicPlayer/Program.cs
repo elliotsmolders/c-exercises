@@ -15,5 +15,5 @@ while (!exitProgram)
 {
     frontend.PrintFrontend();
     int userChoice = frontend.GetUserChoice();
-    exitProgram = backend.HandleChoice(userChoice);
+    exitProgram = backend.HandleChoice((UserChoice)userChoice);
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ellio\\c#course\\module1\\project\\ConsoleMusicPlayer\\ConsoleMusicPlayer.csproj": {}
+    "C:\\Users\\ellio\\c#course\\module1_c#_basic\\project\\ConsoleMusicPlayer\\ConsoleMusicPlayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ellio\\c#course\\module1\\project\\ConsoleMusicPlayer\\ConsoleMusicPlayer.csproj": {
+    "C:\\Users\\ellio\\c#course\\module1_c#_basic\\project\\ConsoleMusicPlayer\\ConsoleMusicPlayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ellio\\c#course\\module1\\project\\ConsoleMusicPlayer\\ConsoleMusicPlayer.csproj",
+        "projectUniqueName": "C:\\Users\\ellio\\c#course\\module1_c#_basic\\project\\ConsoleMusicPlayer\\ConsoleMusicPlayer.csproj",
         "projectName": "ConsoleMusicPlayer",
-        "projectPath": "C:\\Users\\ellio\\c#course\\module1\\project\\ConsoleMusicPlayer\\ConsoleMusicPlayer.csproj",
+        "projectPath": "C:\\Users\\ellio\\c#course\\module1_c#_basic\\project\\ConsoleMusicPlayer\\ConsoleMusicPlayer.csproj",
         "packagesPath": "C:\\Users\\ellio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ellio\\c#course\\module1\\project\\ConsoleMusicPlayer\\obj\\",
+        "outputPath": "C:\\Users\\ellio\\c#course\\module1_c#_basic\\project\\ConsoleMusicPlayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ellio\\AppData\\Roaming\\NuGet\\NuGet.Config",

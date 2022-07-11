@@ -19,10 +19,12 @@ namespace ConsoleMusicPlayer
             : The message filter indicated that the application is busy.*/
             PrintPlayerState();
             PrintVolumeState();
-            PrintVolumeBar();
-            PrintSongName();
+            Console.WriteLine(GetVolumeBar());
+            Console.WriteLine(GetSongName());
+            //print metadata()
             PrintPlaySpeed();
             PrintDuration();
+            Console.WriteLine(GetArtist());
         }
 
         public string GetUserFile()
@@ -86,14 +88,14 @@ namespace ConsoleMusicPlayer
             Console.WriteLine($"Volume = {volumeState} %");
         }
 
-        private void PrintVolumeBar()
+        private string GetVolumeBar()
         {
             int volume = _player.settings.volume;
             string volumebar = $"[{new string('*', volume / 5)}{new string(' ', 20 - volume / 5)}]";
-            Console.WriteLine(volumebar);
+            return volumebar;
         }
 
-        private void PrintPlayerState()
+        private void PrintPlayerState() //fit into enum, was ok
         {
             string[] statesArray = { "Undefined", "Stopped", "Paused", "Playing", "	ScanForward", "ScanReverse", "Buffering", "Waiting", "MediaEnded", "Transitioning", "Ready", "Reconnecting" };
             Console.WriteLine($"State: {statesArray[(int)_player.playState]}");
@@ -120,9 +122,21 @@ namespace ConsoleMusicPlayer
             Console.WriteLine($"song length: {TimeSpan.FromSeconds(seconds).ToString(@"m\:ss")}");
         }
 
-        private void PrintSongName()
+        private string GetSongName()
         {
-            Console.WriteLine($"song name: {_player.currentMedia.name}");
+            return $"song name: {_player.currentMedia.name}";
+        }
+        public void PrintErrorMessage(string message, ConsoleColor color = ConsoleColor.DarkRed)
+        {
+            Console.ForegroundColor = color;
+            Console.WriteLine(message);
+            Console.ResetColor();
+        }
+
+        //Getmetadata
+        private string GetArtist()
+        {
+            return $"Artist: {_player.currentMedia.getItemInfo("Artist")}";
         }
     }
 }
